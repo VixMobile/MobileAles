@@ -1,33 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
   xmlns:gap="http://phonegap.com/ns/1.0"
-	id="com.adobe.demo.GapBook"	version="1.0.0">
+	id="Ales"	version="1.0.0">
 
-	<name>GapBook</name>
+	<name>Ales</name>
 
 	<description>
-		A demo app used as a workshop asset.
+		Plenário Virtual.
 	</description>
 
-	<author href="http://outof.me" email="pwalczys@adobe.com">
-		Piotr Walczyszyn
+	<author href="" email="tavola@hotmail.com">
+		
 	</author>
-
-	<icon src="icon.png" gap:role="default" />
-
-	<feature name="http://api.phonegap.com/1.0/battery"/>
-	<feature name="http://api.phonegap.com/1.0/camera"/>
-	<feature name="http://api.phonegap.com/1.0/contacts"/>
-	<feature name="http://api.phonegap.com/1.0/file"/>
-	<feature name="http://api.phonegap.com/1.0/geolocation"/>
-	<feature name="http://api.phonegap.com/1.0/media"/>
-	<feature name="http://api.phonegap.com/1.0/network"/>
-	<feature name="http://api.phonegap.com/1.0/notification"/>
-
-	<preference name="webviewbounce" value="false" />
-
-	<access origin="http://debug.phonegap.com" />
-	<access origin="http://parse.com" subdomains="true" />
-	<access origin="https://parse.com" subdomains="true" />
 
 </widget>
