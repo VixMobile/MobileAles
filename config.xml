@@ -1,16 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets"
-  xmlns:gap="http://phonegap.com/ns/3.5"
-	id="Ales"	version="3.5.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
 
-	<name>Ales</name>
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "Ales"
+        
+        <name>Ales</name>
 
 	<description>
 		Plenário Virtual.
 	</description>
 
-	<author href="" email="tavola@hotmail.com">
+	<author href="Tavola" email="tavola@gmail.com">
 		
 	</author>
+        version     = "1.0.0"
+        versionCode = "10" >
 
-</widget>
+        <!-- versionCode is optional and Android only -->
+
+        <preference name="phonegap-version" value="3.5.0" />
+
+        <name>Sample Config.xml</name>
+
+        <description>
+        An example for phonegap build docs. 
+        </description>
+
+        <author href="http://yoursite.com" email="you@youremail.com">
+        Your Name
+        </author>
+
+    </widget>
